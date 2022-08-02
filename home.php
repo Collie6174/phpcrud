@@ -19,7 +19,7 @@
   <a href="logout.php"><i class="fa fa-power-off"></i></a> 
 </div>
 
-<h1>iyaq</h1>
+<h1>Welcome to my technical exam!</h1>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 </body>
